@@ -10,14 +10,14 @@ npm install express mongoose nanoid dotenv
 banco de dados: MongoDB
 
 
-Estrutura de pastas:
-micro-share-link/
-├── models/
-│   └── SharedLink.js         # Modelo do MongoDB
-├── routes/
-│   └── shareLink.js          # Rota principal do serviço
-├── controllers/
-│   └── shareLinkController.js # Lógica de geração e salvamento
-├── .env                      # Configurações sensíveis
-├── server.js                 # Ponto de entrada do micro serviço
-├── package.json              # Dependências e scripts
+Estrutura de pastas:<br>
+micro-share-link/<br>
+├── models/<br>
+│   └── SharedLink.js         # Modelo do MongoDB<br>
+├── routes/<br>
+│   └── shareLink.js          # Rota principal do serviço<br>
+├── controllers/<br>
+│   └── shareLinkController.js # Lógica de geração e salvamento<br>
+├── .env                      # Configurações sensíveis<br>
+├── server.js                 # Ponto de entrada do micro serviço<br>
+├── package.json              # Dependências e scripts<br>
