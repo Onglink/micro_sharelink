@@ -23,7 +23,7 @@ micro-share-link/<br>
 ├── package.json              # Dependências e scripts<br>
 
 Para realização de testes:<br>
-No terminal, dentro da paras do micro serviço executar:<br>
+No terminal, dentro da pasta raiz do micro serviço (micro_sharelink) executar:<br>
 node server.js<br>
 O retorno deve ser:<br>
 Micro serviço rodando na porta 3000<br>
