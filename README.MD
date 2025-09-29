@@ -29,7 +29,7 @@ cd micro_sharelink
 <br><br>
 <b>Abra os arquivos no VSCODE</b>
 <br>
-<b> Instale as dependencias através do terminal:</b>
+<b> Instale as dependencias através do terminal:</b><br>
 npm init -y<br>
 npm install express mongoose nanoid dotenv<br>
 
