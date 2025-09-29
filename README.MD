@@ -28,10 +28,11 @@ micro-share-link/<br>
 git clone https://github.com/Onglink/micro_sharelink.git<br>
 cd micro_sharelink
 <br><br>
-### Abra os arquivos no VSCODE
+
+## Abra os arquivos no VSCODE
 <br>
 
-## Instale as dependencias através do terminal:<br>
+### Instale as dependencias através do terminal:<br>
 npm init -y<br>
 npm install express mongoose nanoid dotenv<br>
 
