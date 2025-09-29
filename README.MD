@@ -28,7 +28,7 @@ micro-share-link/<br>
 git clone https://github.com/Onglink/micro_sharelink.git<br>
 cd micro_sharelink
 <br><br>
-<b>Abra os arquivos no VSCODE</b>
+### Abra os arquivos no VSCODE
 <br>
 
 ## Instale as dependencias através do terminal:<br>
