@@ -33,7 +33,7 @@ cd micro_sharelink
 npm init -y<br>
 npm install express mongoose nanoid dotenv<br>
 
-<b>Na pasta raiz será necesário criar um arquivo .env e incluir essas informações dentro dele:</b><br>
+<b><code style="color:red">Na pasta raiz será necesário criar um arquivo .env e incluir essas informações dentro dele:</code></b><br>
 MONGO_URI=mongodb://localhost:27017/<br>
 BASE_URL=https://sua.plataforma.com<br>
 
