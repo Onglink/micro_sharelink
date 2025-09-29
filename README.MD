@@ -22,20 +22,20 @@ micro-share-link/<br>
 ├── package.json              # Dependências e scripts<br>
 <br><br>
 
-<b>Instalação do micro serviço:</b>
-<b>Clone ou faça o download do repositório</b>
-git clone https://github.com/Onglink/micro_sharelink.git
+<b>Instalação do micro serviço:</b><br>
+<b>Clone ou faça o download do repositório</b><br>
+git clone https://github.com/Onglink/micro_sharelink.git<br>
 cd micro_sharelink
-
+<br><br>
 <b>Abra os arquivos no VSCODE</b>
-
+<br>
 <b> Instale as dependencias através do terminal:</b>
-npm init -y
-npm install express mongoose nanoid dotenv
+npm init -y<br>
+npm install express mongoose nanoid dotenv<br>
 
-<b>Configure o arquivo .env:</b>
-PORT=3000
-MONGODB_URI=mongodb://localhost:27017/share-link
+<b>Configure o arquivo .env:</b><br>
+PORT=3000<br>
+MONGODB_URI=mongodb://localhost:27017/share-link<br>
 BASE_URL=https://sua.plataforma.com
 
 <br><br>
