@@ -33,10 +33,9 @@ cd micro_sharelink
 npm init -y<br>
 npm install express mongoose nanoid dotenv<br>
 
-<b>Configure o arquivo .env:</b><br>
-PORT=3000<br>
-MONGODB_URI=mongodb://localhost:27017/share-link<br>
-BASE_URL=https://sua.plataforma.com
+<b>Na pasta raiz será necesário criar um arquivo .env e incluir essas informações dentro dele:</b><br>
+MONGO_URI=mongodb://localhost:27017/<br>
+BASE_URL=https://sua.plataforma.com<br>
 
 <br><br>
 
